@@ -1,0 +1,24 @@
+ 
+
+
+  402  nano Project-Navigator.sh
+  403  chmod +x Project-Navigator.sh
+  404  ./Project-Navigator.sh
+  405  nano project-naviator.sh
+  406  nano Project-Navigator.sh
+  407  git init
+  408  git clone https://github.com/TechPerformanceCentre/Project_Navigator.git
+  409  cd Project_Navigator
+  410  touch Project-Navigator.sh
+  411  nano Project-Navigator.sh
+  412  chmod +x Project_Navigator.sh
+  413  chmod +x Project-Navigator.sh
+  414  ./Project-Navigator.sh
+  415  nano Project-Navigator.sh
+  416  git add .
+  417  git add .
+  418  git commit -m "my practical submission"
+  419  git push
+  420  git status
+  421  history
+
